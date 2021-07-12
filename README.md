@@ -1,3 +1,17 @@
+# Hello World!
+
+Hi, I created this Landing Page using ReactJS as frontend. This is illustrated following the guide link below:
+
+https://xd.adobe.com/view/7f58e920-ac36-4154-ad00-ba6187b3469b-2a0b/?fbclid=IwAR0dZfcb5Rwj3yunNcCz6skT_8koU7aSxaFqYQafsU076iaAO2qJXSJ0S7U
+
+Images varies from the actual guides since I do not have access to the original images, also the logos are not the same. 
+
+The page is also viewable in desktop and mobile view. The behavior of the AI-Chat is not working in mobile view.
+
+To start the server please install all the dependencies and follow the instruction below.
+
+Thank you!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
